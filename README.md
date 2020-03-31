@@ -1,1 +1,3 @@
-# TallerPatronesDeDise-o
+# Taller Patrones De Diseño
+
+Stefania Zapata Osorio
